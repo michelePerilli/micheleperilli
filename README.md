@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I'm me
+
+![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelePerilli&show_icons=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelePerilli&layout=compact&theme=blue-green)](https://github.com/michelePerilli/github-readme-stats)
+
 <!--
 **michelePerilli/micheleperilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
